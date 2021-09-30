@@ -1,3 +1,4 @@
+
 class Solution(object):
     def removeElement(self, nums, val):
         while True: 
@@ -18,5 +19,5 @@ class Solution(object):
         :type nums: List[int]
         :type val: int
         :rtype: int
-        """
+              """
         

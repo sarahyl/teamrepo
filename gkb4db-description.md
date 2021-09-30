@@ -1,5 +1,5 @@
 George Boulos
-Computing ID :gkb4db
+Computing ID: gkb4db
 
 Question Link: https://leetcode.com/problems/remove-element/ 
 
